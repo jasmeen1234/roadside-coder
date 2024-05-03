@@ -1,6 +1,6 @@
 import {useState} from 'react'
 
-const initialBoard=()=> Array(9).fill(null);
+const initialBoard=()=> Array(16).fill(null);
 const UseTicTacToe=()=>{
     const[board,setBoard]=useState(initialBoard());
     const[isXNext,setIsXNext]=useState(true);

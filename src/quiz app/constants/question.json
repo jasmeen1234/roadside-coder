@@ -1,0 +1,89 @@
+[
+    {
+  "question" :"what is HTML",
+  "answerOptions" :[
+    {"text":"HTML is hyper text markup language","isCorrect":true},
+    { "text":"HTML is hyper language","isCorrect":false},
+    {"text":"HTML is hyper markup language","isCorrect":false}
+    ]
+},
+{
+    "question" :"what is CSS",
+    "answerOptions" :[
+      {"text":"CSS is cascading style sheet","isCorrect":true},
+      { "text":"css is a language","isCorrect":false},
+      {"text":"css is designing part","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  }
+  , {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  }, {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  }
+  , {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  },
+  {
+    "question" :"what is JAVASCRIPT",
+    "answerOptions" :[
+      {"text":"javascript is scripting language","isCorrect":true},
+      { "text":"javascript is functional language","isCorrect":false},
+      {"text":"javascript is library","isCorrect":false}
+      ]
+  }
+]
